@@ -1,0 +1,2 @@
+C:\Users\Ptryb\source\repos\VLOCrash\Debug\VLOCrash.exe
+C:\Users\Ptryb\source\repos\VLOCrash\Debug\VLOCrash.pdb

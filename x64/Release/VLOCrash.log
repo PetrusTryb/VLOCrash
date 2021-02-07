@@ -1,0 +1,10 @@
+﻿  VLOCrash.cpp
+C:\Users\Ptryb\source\repos\VLOCrash\VLOCrash.cpp(72,10): warning C4101: "hBrush": lokalna zmienna, do której nie istnieje odwołanie
+C:\Users\Ptryb\source\repos\VLOCrash\VLOCrash.cpp(117,24): warning C4244: "argument": konwersja z "ULONGLONG" do "unsigned int", możliwa utrata danych
+C:\Users\Ptryb\source\repos\VLOCrash\VLOCrash.cpp(141,24): warning C4244: "argument": konwersja z "ULONGLONG" do "unsigned int", możliwa utrata danych
+  Trwa generowanie kodu
+  2 of 3 functions (66.7%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  Zakończono generowanie kodu
+  VLOCrash.vcxproj -> C:\Users\Ptryb\source\repos\VLOCrash\x64\Release\VLOCrash.exe
